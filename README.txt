@@ -19,7 +19,7 @@ As bonus, we put mario XM music ! Yeah..r0x it! Hahaha..
 
 *Development:
 =============
-- This tool was developed and compiled in MS STUDIO 2010
+- This tool was developed and compiled in MS VISUAL STUDIO 2010
 
 * Team members :
 ================
